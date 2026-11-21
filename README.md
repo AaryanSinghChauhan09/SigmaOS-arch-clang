@@ -1,4 +1,4 @@
-# SigmaOS-arch-clang
+# SigmaOS-clang
 
 GitHub description is a placeholder; component scope remains unclassified.
 

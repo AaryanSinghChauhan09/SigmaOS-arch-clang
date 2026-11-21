@@ -1,4 +1,4 @@
-use arch_clang::Component;
+use sigmaos_clang::Component;
 
 #[test]
 fn test_component_new_aaa() {

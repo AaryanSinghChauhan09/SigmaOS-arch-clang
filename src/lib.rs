@@ -1,4 +1,4 @@
-//! SigmaOS-arch-clang — arch-clang component
+//! SigmaOS-clang — clang component
 //!
 //! Part of the SigmaOS multi-repository component ecosystem. This crate
 //! declares its interface in `COMPONENT.toml` (`provides` / `depends_on`).
